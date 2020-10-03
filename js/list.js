@@ -51,7 +51,7 @@ const d = {
 			       {
 				       "user": "Yaroslav",
 				       "link": "",
-				       "percent": 58,
+				       "percent": 61,
 				       "hz": "Mobile"
 			       },
 			       {
@@ -63,7 +63,7 @@ const d = {
 			       {
 				       "user": "Tony",
 				       "link": "",
-				       "percent": 55,
+				       "percent": 64,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -85,6 +85,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "Alan",
+				       "link": "",
+				       "percent": 55,
+				       "hz": "Mobile"
+			       },
+			       {
+				       "user": "Angelo",
+				       "link": "",
+				       "percent": 58,
+				       "hz": "Mobile"
+			       },
 		       ],
                        "name": "Chill Out",
                        "author": "TheRealDarnoc",
@@ -94,6 +106,25 @@ const d = {
                        "percentToQualify": 45,
                        "verificationVid": "",
                        "key": 3
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Sandra",
+				       "link": "",
+				       "percent": 53,
+				       "hz": "Mobile"
+			       },
+		       ],
+                       "name": "Afraid of the Dark",
+                       "author": "Ninjawolf4488",
+                       "more": "none",
+                       "id": 528,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "",
+                       "key": 4
                 },
 		/*=================================================================================*/
 		{
