@@ -15,7 +15,13 @@ const d = {
 				       "link": "",
 				       "percent": 56,
 				       "hz": "Mobile"
-			       },   
+			       },
+			       {
+				       "user": "Vitoria",
+				       "link": "",
+				       "percent": 54,
+				       "hz": "Mobile"
+			       },
 		       ],
                        "name": "Jump Man",
                        "author": "Allienware",
@@ -29,10 +35,29 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+		       ],
+                       "name": "jumpin jam",
+                       "author": "TheRealDarnoc",
+                       "more": "none",
+                       "id": 338,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "",
+                       "key": 0
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
 			       {
 				       "user": "Yaroslav",
 				       "link": "",
 				       "percent": 58,
+				       "hz": "Mobile"
+			       },
+			       {
+				       "user": "Charlize",
+				       "link": "",
+				       "percent": 55,
 				       "hz": "Mobile"
 			       },
 		       ],
