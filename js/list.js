@@ -10,6 +10,12 @@ const d = {
 				       "percent": 56,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "Judy",
+				       "link": "",
+				       "percent": 56,
+				       "hz": "Mobile"
+			       },   
 		       ],
                        "name": "Jump Man",
                        "author": "Allienware",
