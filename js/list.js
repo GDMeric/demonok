@@ -13,13 +13,13 @@ const d = {
 			       {
 				       "user": "Judy",
 				       "link": "",
-				       "percent": 72,
+				       "percent": 74,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Vitoria",
 				       "link": "",
-				       "percent": 57,
+				       "percent": 67,
 				       "hz": "Mobile"
 			       },
 			       {
@@ -82,7 +82,7 @@ const d = {
 			       {
 				       "user": "Yaroslav",
 				       "link": "",
-				       "percent": 61,
+				       "percent": 69,
 				       "hz": "Mobile"
 			       },
 			       {
