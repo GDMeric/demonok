@@ -27,6 +27,25 @@ const d = {
                        "key": 0
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Yaroslav",
+				       "link": "",
+				       "percent": 58,
+				       "hz": "Mobile"
+			       },
+		       ],
+                       "name": "Dont stop believin",
+                       "author": "TheRealDarnoc",
+                       "more": "none",
+                       "id": 296,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "",
+                       "key": 1
+                },
+		/*=================================================================================*/
 		               {
                 "vids": [
 			       {
@@ -43,7 +62,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 1
+                       "key": 2
                 },
 		/*=================================================================================*/
 
