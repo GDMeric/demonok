@@ -4,6 +4,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+			       {
+				       "user": "Nigella",
+				       "link": "",
+				       "percent": 56,
+				       "hz": "Mobile"
+			       },
 		       ],
                        "name": "Jump Man",
                        "author": "Allienware",
