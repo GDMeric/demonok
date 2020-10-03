@@ -3,6 +3,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+			       {
+				       "user": "Vitoria",
+				       "link": "https://youtu.be/j0EXPzXsx6A",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },
 		       ],
                        "name": "Chill Out",
                        "author": "TheRealDarnoc",
