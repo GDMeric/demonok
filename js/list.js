@@ -7,7 +7,7 @@ const d = {
 			       {
 				       "user": "Makarl",
 				       "link": "",
-				       "percent": 45,
+				       "percent": 46,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -26,7 +26,7 @@ const d = {
 			       {
 				       "user": "ChiChi",
 				       "link": "",
-				       "percent": 48,
+				       "percent": 50,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -43,9 +43,28 @@ const d = {
 		{
                        "vids": [
 			       {
+				       "user": "Vitoria",
+				       "link": "",
+				       "percent": 45,
+				       "hz": "Mobile"
+			       },
+		       ],
+                       "name": "No",
+                       "author": "YoXdie",
+                       "more": "none",
+                       "id": 1707,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "",
+                       "key": 2
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
 				       "user": "Nigella",
 				       "link": "",
-				       "percent": 76,
+				       "percent": 84,
 				       "hz": "Mobile"
 			       },
 			       {
@@ -57,13 +76,13 @@ const d = {
 			       {
 				       "user": "Vitoria",
 				       "link": "",
-				       "percent": 89,
+				       "percent": 93,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Harriet",
 				       "link": "",
-				       "percent": 60,
+				       "percent": 62,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -74,7 +93,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 2
+                       "key": 3
                 },
 		/*=================================================================================*/
 		{
@@ -82,13 +101,13 @@ const d = {
 			       {
 				       "user": "Cristian",
 				       "link": "",
-				       "percent": 55,
+				       "percent": 58,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Yaroslav",
 				       "link": "",
-				       "percent": 45,
+				       "percent": 53,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -99,7 +118,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 3
+                       "key": 4
                 },
 		/*=================================================================================*/
 		{
@@ -107,19 +126,25 @@ const d = {
 			       {
 				       "user": "Justine",
 				       "link": "",
-				       "percent": 60,
+				       "percent": 67,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Leondrea",
 				       "link": "",
-				       "percent": 61,
+				       "percent": 77,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Daniela",
 				       "link": "",
-				       "percent": 65,
+				       "percent": 68,
+				       "hz": "Mobile"
+			       },
+			       {
+				       "user": "Judy",
+				       "link": "",
+				       "percent": 45,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -130,7 +155,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 4
+                       "key": 5
                 },
 		/*=================================================================================*/
 		{
@@ -144,13 +169,13 @@ const d = {
 			       {
 				       "user": "Charlize",
 				       "link": "",
-				       "percent": 68,
+				       "percent": 74,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Tony",
 				       "link": "",
-				       "percent": 80,
+				       "percent": 86,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -161,7 +186,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 5
+                       "key": 6
                 },
 		/*=================================================================================*/
 		               {
@@ -175,13 +200,13 @@ const d = {
 			       {
 				       "user": "Alan",
 				       "link": "",
-				       "percent": 65,
+				       "percent": 69,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Angelo",
 				       "link": "",
-				       "percent": 68,
+				       "percent": 72,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -192,7 +217,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 6
+                       "key": 7
                 },
 		/*=================================================================================*/
 		{
@@ -200,7 +225,7 @@ const d = {
 			        {
 				       "user": "Aco",
 				       "link": "",
-				       "percent": 49,
+				       "percent": 54,
 				       "hz": "Mobile"
 			       },
 			       
@@ -212,7 +237,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 7
+                       "key": 8
                 },
 		/*=================================================================================*/
 		{
@@ -220,13 +245,13 @@ const d = {
 			       {
 				       "user": "Sandra",
 				       "link": "",
-				       "percent": 82,
+				       "percent": 85,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Maxima",
 				       "link": "",
-				       "percent": 61,
+				       "percent": 68,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -237,7 +262,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 8
+                       "key": 9
                 },
 		/*=================================================================================*/
 		{
@@ -245,19 +270,25 @@ const d = {
 			       {
 				       "user": "Etta",
 				       "link": "",
-				       "percent": 77,
+				       "percent": 83,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Liam",
 				       "link": "",
-				       "percent": 88,
+				       "percent": 93,
 				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "Farzaneh",
 				       "link": "",
-				       "percent": 65,
+				       "percent": 67,
+				       "hz": "Mobile"
+			       },
+			       {
+				       "user": "Farat",
+				       "link": "",
+				       "percent": 55,
 				       "hz": "Mobile"
 			       },
 		       ],
@@ -268,7 +299,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "",
-                       "key": 9
+                       "key": 10
                 },
 		/*=================================================================================*/
 
