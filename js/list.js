@@ -274,7 +274,7 @@ const d = {
 			       {
 				       "user": "Etta",
 				       "link": "",
-				       "percent": 48,
+				       "percent": 72,
 				       "hz": "Mobile"
 			       },
 			       
